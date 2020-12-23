@@ -19,3 +19,10 @@ Once a review is completed, click on “Create Function”.
 
 Test:
 create new test event in the lambda function and trigger
+
+Find sample in the below web site:
+https://www.baeldung.com/java-aws-lambda
+
+Find so many AWS/java examples in the below  git hub location,
+
+https://github.com/eugenp/tutorials/tree/master/aws
